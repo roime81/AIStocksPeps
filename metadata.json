@@ -1,0 +1,5 @@
+{
+  "name": "StockPulse AI - Technical Forecaster",
+  "description": "An advanced stock market analysis tool that uses Gemini's search grounding to analyze the top 5 most profitable stocks with the 10 most popular technical indicators, providing a 2-month daily projection.",
+  "requestFramePermissions": []
+}
